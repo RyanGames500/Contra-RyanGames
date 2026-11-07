@@ -1,0 +1,1 @@
+base_core.hp-=1000;

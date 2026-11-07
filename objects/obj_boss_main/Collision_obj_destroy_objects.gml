@@ -1,0 +1,12 @@
+instance_destroy(self);
+instance_destroy(arm_L);
+instance_destroy(arm_R);
+instance_destroy(arm_R);
+instance_destroy(arm_L);
+instance_destroy(top_gun1);
+instance_destroy(top_gun2);
+instance_destroy(top_gun3);
+instance_destroy(launcher_L);
+instance_destroy(launcher_R);
+instance_destroy(obj_boss_beam_connector);
+instance_create_layer(0, 0, "HUD", obj_victory_screen);
